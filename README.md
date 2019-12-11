@@ -7,7 +7,7 @@
 
 <br>
 
-<img src=".assets/youtube.gif" width="30%" height="50%">
+<img src="./assets/youtube.gif" width="30%" height="50%">
 
 
 ## Instruction
