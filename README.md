@@ -5,6 +5,9 @@
 
 ### A web app where one can search YouTube videos in sorted order according to number of likes, comments, views, name and date. It is made using [YouTube API v3](https://developers.google.com/youtube/v3/getting-started).
 
+> ### Are you looking for a React App using YouTube API, please [check this](https://github.com/vinitshahdeo/MiniYouTube/)!
+
+
 <br>
 
 <img src="./assets/youtube.gif" width="30%" height="50%">
@@ -40,7 +43,7 @@ const API_KEY = 'XXXXXXXXXXXX'; // REPLACE IT WITH YOUR YOUTUBE API KEY
 
 <br>
 
-## External Resources used
+## External Resources
 
 1. [Font Awesome](https://fontawesome.com/) - It is used for importing icons in the web app.
 2. [Google Fonts](https://fonts.google.com/) - `Oxygen` and `Acme` Google fonts are used.
