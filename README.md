@@ -54,3 +54,5 @@ const API_KEY = 'XXXXXXXXXXXX'; // REPLACE IT WITH YOUR YOUTUBE API KEY
 ## Author
 
 **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**
+
+[![Twitter Badge](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
