@@ -8,5 +8,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - run: npm i
     - uses: stefanoeb/eslint-action@1.0.0
     - run: echo ESLint!
