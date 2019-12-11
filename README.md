@@ -45,9 +45,9 @@ const API_KEY = 'XXXXXXXXXXXX'; // REPLACE IT WITH YOUR YOUTUBE API KEY
 
 ## External Resources
 
-1. [Font Awesome](https://fontawesome.com/) - It is used for importing icons in the web app.
-2. [Google Fonts](https://fonts.google.com/) - `Oxygen` and `Acme` Google fonts are used.
-3. [JQuery](https://jquery.com/)
+- [Font Awesome](https://fontawesome.com/) - It is used for importing icons in the web app.
+- [Google Fonts](https://fonts.google.com/) - `Oxygen` and `Acme` Google fonts are used.
+- [JQuery](https://jquery.com/)
 
 <br>
 
