@@ -5,6 +5,9 @@
 
 ### A web app where one can search YouTube videos in sorted order according to number of likes, comments, views, name and date. It is made using [YouTube API v3](https://developers.google.com/youtube/v3/getting-started).
 
+> ### Are you looking for a React App using YouTube API, please [check this](https://github.com/vinitshahdeo/MiniYouTube/)!
+
+
 <br>
 
 <img src="./assets/youtube.gif" width="30%" height="50%">
@@ -40,14 +43,18 @@ const API_KEY = 'XXXXXXXXXXXX'; // REPLACE IT WITH YOUR YOUTUBE API KEY
 
 <br>
 
-## External Resources used
+## External Resources
 
-1. [Font Awesome](https://fontawesome.com/) - It is used for importing icons in the web app.
-2. [Google Fonts](https://fonts.google.com/) - `Oxygen` and `Acme` Google fonts are used.
-3. [JQuery](https://jquery.com/)
+- [Font Awesome](https://fontawesome.com/) - It is used for importing icons in the web app.
+- [Google Fonts](https://fonts.google.com/) - `Oxygen` and `Acme` Google fonts are used.
+- [JQuery](https://jquery.com/)
 
 <br>
 
 ## Author
 
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Mini-YouTube/links/7)
+
 **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**
+
+[![Twitter Badge](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
