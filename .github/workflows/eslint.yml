@@ -9,4 +9,4 @@ jobs:
 
     steps:
     - uses: stefanoeb/eslint-action@1.0.0
-      run: echo ESLint!
+    - run: echo ESLint!
