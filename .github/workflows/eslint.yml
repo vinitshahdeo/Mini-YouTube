@@ -1,0 +1,12 @@
+name: Run ESLint
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: stefanoeb/eslint-action@1.0.0
+      run: echo ESLint!
