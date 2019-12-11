@@ -1,12 +1,12 @@
 # Mini YouTube
 
-### A web app where one can search YouTube videos in sorted order according to number of likes, comments, views, name and date. It is made using YouTube API v3.
+### A web app where one can search YouTube videos in sorted order according to number of likes, comments, views, name and date. It is made using [YouTube API v3](https://developers.google.com/youtube/v3/getting-started).
 
 <br>
 
 ## Instruction
 
-- Get your **YouTube API key** [here](https://developers.google.com/youtube/v3/getting-started)
+- Get your **YouTube API key [here](https://developers.google.com/youtube/v3/getting-started)**.
 
 - Replace **`API_KEY=XXXXXXXXXX`** in `js/youtube.js` with your own YouTube API key.
 
@@ -16,9 +16,9 @@ const API_KEY = 'XXXXXXXXXXXX'; // REPLACE IT WITH YOUR YOUTUBE API KEY
 
 ```
 
-- Open `index.html` with any browser(say chrome, mozilla etc.) Kindly assure the proper internet connectivity before you start browsing videos on **Mini YouTube**.
+- Open `index.html` with any browser(say chrome, mozilla etc.) Kindly assure the proper internet connectivity before you start browsing videos on **[Mini YouTube](https://github.com/vinitshahdeo/Mini-YouTube/)**.
 
-- Enter your query(e.g. 'Prank Videos', 'Thugs of Hindostan', 'Girls like you' etc.) to browse videos.
+- Enter your query(*e.g. 'Prank Videos', 'Shreya Ghosal', 'Girls like you' etc.*) to browse videos.
 
 - **Click on `Search` icon.**
 
@@ -44,4 +44,4 @@ const API_KEY = 'XXXXXXXXXXXX'; // REPLACE IT WITH YOUR YOUTUBE API KEY
 
 ## Author
 
-Vinit Shahdeo
+[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
